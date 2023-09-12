@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <TItle>Tentativa da página</TItle>
+    <meta charset="UTF-8" />
+
+    <style>
+      header {
+        background-color: #000003;
+        padding: 10px;
+      }
+
+      body {
+        background-color: #b5f2f2;
+      }
+
+      nav {
+        color: #030303;
+      }
+
+      .destaque {
+        color: #137b40;
+        font-size: 20px;
+        top: 10;
+        float: right;
+        font-weight: bold;
+        margin: 10%;
+      }
+      nav header {
+        background-color: #000003;
+      }
+
+      #imagemrs {
+        width: 450px;
+        height: 400px;
+        top: 5;
+      }
+
+      nav li {
+        display: inline;
+        color: #ffffff;
+        font-weight: bold;
+        border: 2px solid #000003;
+        padding: 5px;
+        bottom: 50;
+        right: 50px;
+        background-color: #000003;
+        margin-left: 30px;
+      }
+
+      footer {
+        background-color: #000003;
+        color: aliceblue;
+        position: relative;
+      }
+    </style>
+  </head>
+
+  <body>
+    <img
+      id="imagemrs"
+      src="Logotipo_pessoal_saúde_e_bem-estar_minimalista_azul_-removebg-preview.png"
+      alt=""
+    />
+    <p class="destaque">
+      O jeito inteligente de economizar CUIDANDO BEM de você
+    </p>
+    <header>
+      <nav>
+        <UL>
+          <li><a href="default.asp">Cadastre-se</a></li>
+          <li><a href="Entre">Entre</a></li>
+          <li><a href="nós">Por que escolher a MainSell</a></li>
+          <li><a href="MainsSaúde">MainSaúde</a></li>
+        </UL>
+      </nav>
+    </header>
+
+    <main>
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus esse
+      minus placeat corporis nesciunt odio laboriosam doloremque, quas qui eius,
+      facere temporibus, quae ut! Officia labore iusto quia ratione et? Lorem
+      ipsum dolor sit amet consectetur adipisicing elit. Quis expedita provident
+      maiores eligendi libero doloremque voluptatibus at sunt accusantium vel
+      est dignissimos itaque debitis, labore reiciendis dolorem earum similique
+      laborum.
+    </main>
+
+    <footer>
+      <ul>
+        <li>Contato</li>
+        <li>Termos</li>
+        <li>Politica de privacidade</li>
+      </ul>
+    </footer>
+  </body>
+</html>
