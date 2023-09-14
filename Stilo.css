@@ -1,0 +1,52 @@
+<style>
+      .conteiner1 {
+        height: 300px;
+        width: 150px;
+        background-color: #000003;
+        padding: 10px;
+      }
+
+      body {
+        background-color: #b5f2f2;
+      }
+
+      nav {
+        color: #030303;
+      }
+
+      .destaque {
+        color: #137b40;
+        font-size: 20px;
+        top: 10;
+        float: right;
+        font-weight: bold;
+        margin: 10%;
+      }
+      nav header {
+        background-color: #000003;
+      }
+
+      #imagemrs {
+        width: 450px;
+        height: 400px;
+        top: 5;
+      }
+
+      nav li {
+        display: inline;
+        color: #ffffff;
+        font-weight: bold;
+        border: 2px solid #000003;
+        padding: 5px;
+        bottom: 50;
+        right: 50px;
+        background-color: #000003;
+        margin-left: 30px;
+      }
+
+      footer {
+        background-color: #000003;
+        color: aliceblue;
+        position: relative;
+      }
+    </style>
