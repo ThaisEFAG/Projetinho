@@ -22,7 +22,7 @@
   </div>
    
 
-    <div class="conteiner2">
+    <div id="conteiner1"">
       <header>
       <nav>
         <UL>
